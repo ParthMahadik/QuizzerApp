@@ -1,6 +1,6 @@
 # quizzer_app
 
-A new Flutter project.
+An application made for the purpose of learning Object Oriented App Development.
 
 ## Getting Started
 
